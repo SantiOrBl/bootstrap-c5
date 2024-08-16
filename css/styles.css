@@ -1,0 +1,26 @@
+.bg-custom1{
+    background: linear-gradient(rgb(68, 70, 71), rgb(141, 143, 141));
+}
+
+.bg-custom2{
+    background: linear-gradient(rgb(44, 23, 40), rgb(132, 0, 255));
+}
+
+.bg-custom3{
+    background: linear-gradient(rgb(95, 130, 194), rgb(5, 5, 5));
+}
+
+.bg-custom4{
+    background: linear-gradient(rgba(255, 255, 255, 0.137), rgb(5, 5, 5));
+}
+
+.bg-custom5{
+    background: linear-gradient(rgb(177, 226, 255), rgb(209, 209, 209));
+}
+
+
+@media (max-width: 600px) {
+    .video-accordion{
+        width: 85%;
+    }
+}
